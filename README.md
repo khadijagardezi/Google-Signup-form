@@ -1,2 +1,1 @@
-# Google-Signup-form
-Developed this mockup by using HTML &amp; CSS
+https://khadijagardezi.github.io/Google-Signup-form
